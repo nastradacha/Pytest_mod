@@ -1,0 +1,8 @@
+{
+  "URL": {
+    "AmazonMain": "https://www.amazon.com/"
+  },
+  "Browsers": {
+    "Chrome_driver": "C:\\Users\\Nastracha\\OneDrive\\Desktop\\Selenium browser drivers\\chromedriver_win32\\chromedriver.exe"},
+    "Firefox_driver":"C:\\Users\\Nastracha\\OneDrive\\Desktop\\Selenium browser drivers\\geckodriver-v0.26.0-win64\\geckodriver.exe"
+}
